@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  description: MyString
+  nmae: MyString
+  start_date: 2022-11-28
+  end_date: 2022-11-28
+
+two:
+  description: MyString
+  nmae: MyString
+  start_date: 2022-11-28
+  end_date: 2022-11-28
